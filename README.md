@@ -46,8 +46,9 @@
 | **NutriMoug** | Python · Flask · MySQL · REST API | Nutrition tracking app with dashboard and REST API |
 
 ---
-
 ## 📫 Get in touch
 
+
 - ✉️ [aitsmouguenreda@gmail.com](mailto:aitsmouguenreda@gmail.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/reda-ait-smouguen-4b7b79200)
 - 📍 Lyon, France — mobile across France
