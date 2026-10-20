@@ -49,7 +49,6 @@
 
 ## 📫 Get in touc
 
-
 - ✉️ [aitsmouguenreda@gmail.com](mailto:aitsmouguenreda@gmail.com)
 - 💼 [LinkedIn](https://www.linkedin.com/in/reda-ait-smouguen-4b7b79200)
 - 📍 Lyon, France — mobile across France
