@@ -47,7 +47,7 @@
 
 ---
 
-## 📫 Get in touc
+## 📫 Get in touch
 
 - ✉️ [aitsmouguenreda@gmail.com](mailto:aitsmouguenreda@gmail.com)
 - 💼 [LinkedIn](https://www.linkedin.com/in/reda-ait-smouguen-4b7b79200)
